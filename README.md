@@ -1,4 +1,3 @@
-# README
 ## 环境配置
 安装步骤：
 1. 安装selenium: pip3 install selenium
